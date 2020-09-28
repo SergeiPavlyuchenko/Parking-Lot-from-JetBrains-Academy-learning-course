@@ -1,0 +1,1 @@
+println(if (line?.length != null) line.length else "-1")  // need a fix
